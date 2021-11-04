@@ -1,0 +1,11 @@
+{
+    "name": "Test",
+    "description": "This token represents nothing and is purely for testing",
+    "decimals": 10,
+    "image": "https://github.com/PlayPeth/Test/0.png",
+    "localization": {
+      "uri": "https://github.com/PlayPeth/Test/0{locale}.json",
+      "default": "en",
+      "locales": ["en"]
+    }
+  }
